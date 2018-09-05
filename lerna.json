@@ -3,8 +3,7 @@
   "changelog": {
     "repo": "Onlylonger/demo-lerna",
     "labels": {
-      "tag: bugfix": "Bug fix",
-      "tag: enhancement": "Enhancement"
+      "tag: bug": "Bug fix"
     },
     "cacheDir": ".changelog"
   },
