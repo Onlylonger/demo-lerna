@@ -1,5 +1,5 @@
 {
-  "name": "moduleA",
+  "name": "module-a",
   "version": "0.0.1",
   "description": "",
   "main": "index.js",
@@ -10,7 +10,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "lodash": "^4.17.10",
-    "moduleB": "^0.0.1"
+    "lodash": "^4.17.10"
   }
 }

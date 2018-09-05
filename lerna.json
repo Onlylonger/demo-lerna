@@ -1,6 +1,12 @@
 {
-  "packages": [
-    "packages/*"
-  ],
+  "packages": ["packages/*"],
+  "changelog": {
+    "repo": "Onlylonger/demo-lerna",
+    "labels": {
+      "tag: bugfix": "Bug fix",
+      "tag: enhancement": "Enhancement"
+    },
+    "cacheDir": ".changelog"
+  },
   "version": "0.0.1"
 }
